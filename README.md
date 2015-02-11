@@ -1,6 +1,10 @@
 # testing-git
 This is for a workshop
 
-We are in the cam.
+We are in the dev.
 
-We acquired some funding so now we have a HD 5000 fps cam.
+
+Readme is safe now
+
+Version v0.1.1
+
